@@ -1,0 +1,65 @@
+body {
+    background-color: #8FE3CF;
+    text-align: center;
+    
+}
+.intro {
+    
+    height: 250px;
+    width: 250px;
+    padding: 40px;
+    margin: 0 auto 0 auto;
+   
+}
+
+.top2-class {
+    position: absolute;
+   left: 560px;
+    top: 190px;
+    height: 250px;
+    width: 250px;
+    padding: 80px;
+    margin: 0 auto 0 auto;
+}  
+h1 {
+    font-family: 'Sacramento', cursive;
+   color: #002B5B;
+    font-size: 50px;
+    line-height: 1;
+}
+h2{
+   color:#002B5B;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+}
+.contact-me {
+    background-color: #256D85;
+    color:midnightblue;
+}
+.btn, .footer-link {
+    color:black;
+}
+    
+.skill-row{
+    width: 50%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    line-height: 1.8;
+}
+
+.java,  .css  {
+    width:15%;
+    height:15%;
+    float: left;
+    margin:30px;
+    
+}
+
+.html , .c {
+    width:15%;
+    height:15%;
+    float: right;
+    margin: 30px;
+      
+}
+
